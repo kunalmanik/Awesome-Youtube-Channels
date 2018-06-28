@@ -131,6 +131,10 @@ A pretty Awesome list of technical Youtube Channels that one must follow. This l
 > It's Dialogflow!
 > https://www.youtube.com/channel/UC1EXoqvR9VrmWnM9S47SfVA
 
+## Dylan Israel
+> Daily uploads of multiple object oriented programming languages. Specializing with JavaScript and its frameworks such as jQuery, Angular, React and more. Most of the content is focused around online tutorial sites such as Codecademy, FreeCodeCamp and CodeCombat.
+> https://www.youtube.com/user/pizzapokerguy87
+
 ## edureka!
 > Edureka is a live and interactive e-learning platform 
 > https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ
