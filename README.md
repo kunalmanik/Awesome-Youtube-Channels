@@ -1,7 +1,7 @@
 # Awesome-Youtube-Channels
 A pretty Awesome list of technical Youtube Channels that one must follow. This list is most likely limited to the scope of Data Science, Programming and Engineering world!
 
-## Following are a few channels that Tech People might follow. This is not an exhaustive list of Channels but contains links of fine Youtube Channels that will sure help you in learning new skills, refine what you already have and even keep yourself up-to-date with Tech News!
+## Following are a few channels that Tech People might follow. This is not an exhaustive list of Channels but contains links of fine Youtube Channels that will sure help you in learning new skills, refine what you already have and even keep yourself up-to-date with Tech News! #Brackeys
 
 ## Academin
 > Angular Tutorials or Guides, Vue.js, other Frontend Development Content or Data Science Topics or anything else
@@ -238,6 +238,10 @@ A pretty Awesome list of technical Youtube Channels that one must follow. This l
 ## Ivan on Tech
 > The Blockchain Guy!
 > https://www.youtube.com/channel/UCrYmtJBtLdtm2ov84ulV-yg
+
+## Joma Tech
+> Jonathan Ma has worked for LinkedIn, Facebook, Microsoft and BuzzFeed but has a passion in Entertainment and Media. This channel tries to intersect those two with these two shows: Joma Startup: A mockumentary/vlog inspired by a real startup Tech Show: Interviews with guests from Silicon Valley about how to succeed in their industry
+> https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw
 
 ## Khan Academy
 > The first love!
