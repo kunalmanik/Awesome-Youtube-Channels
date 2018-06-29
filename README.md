@@ -6,7 +6,7 @@ A pretty Awesome list of technical Youtube Channels that one must follow. This l
 * Channels
   * [Data Science and Coding](#Data-Science-Coding)
   
-## Data-Science-Coding 
+## Data Science and Coding 
 
 **Academin**
 > Angular Tutorials or Guides, Vue.js, other Frontend Development Content or Data Science Topics or anything else
