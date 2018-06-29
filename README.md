@@ -4,7 +4,7 @@ A pretty Awesome list of technical Youtube Channels that one must follow. This l
 **Following are a few channels that Tech People might follow. This is not an exhaustive list of Channels but contains links of fine Youtube Channels that will sure help you in learning new skills, refine what you already have and even keep yourself up-to-date with Tech News!**
 
 * Channels
-  * [Data Science and Coding](#Data-Science-Coding)
+  * [Data Science and Coding](#data-science-and-coding)
   
 ## Data Science and Coding 
 
